@@ -1,0 +1,13 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+}
+.hero {
+  width: vw;
+  height: 500px;
+  background-color: blueviolet;
+  background-image: url(star.jpeg);
+  background-position: center;
+  background-attachment: fixed;
+}
